@@ -15,7 +15,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** E = 0.98 * 240 = 235.2
 
 ##### Question 2
 
@@ -23,7 +23,10 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** i = 1 P(N=1) = 1/16
+      i = 2 P(N=2) = 1/8
+      i = 3 P(N=3) = 3/16
+      i = 4 P(N=4) = 1/4
 
 ##### Question 3
 
@@ -47,7 +50,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** m = 9/13
 
 
 ##### Question 6
@@ -56,7 +59,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P(Z>1) = exp(-1) * (exp(exp(-μ)) -1)
 
 
 ##### Question 7
