@@ -6,7 +6,7 @@ output: html_document
 ** **
 
 ##### Prénom Nom Groupe
-
+Hamza DRIDI G6
 
 
 ##### Question 1
@@ -15,7 +15,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** E = 0.98 * 240 = 235.2
 
 ##### Question 2
 
@@ -23,7 +23,10 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** i = 1 P(N=1) = 1/16
+      i = 2 P(N=2) = 1/8
+      i = 3 P(N=3) = 3/16
+      i = 4 P(N=4) = 1/4
 
 ##### Question 3
 
@@ -31,7 +34,10 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** A = "le candidat conserve son choix "
+      B = "le candidat change son choix "
+      P(G|A) = 1/2
+      P(G|B) = 1/2
 
 ##### Question 4
 
@@ -39,7 +45,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P(B|G) = 1/3
 
 ##### Question 5
 
@@ -47,7 +53,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** m = 9/13
 
 
 ##### Question 6
@@ -56,7 +62,7 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** P(Z>1) = exp(-1) * (exp(exp(-μ)) -1)
 
 
 ##### Question 7
@@ -66,7 +72,8 @@ output: html_document
 
 ###### Réponse : 
 
-** ** 
+** ** Z suit la loi binomial de parametre 2n = 40 et de probabilité p(1-p) = 1/3
+      E(Z) = 2n * p(1-p) = 40/3
 
 
 ##### Question 8
@@ -75,7 +82,8 @@ output: html_document
 
 ###### Réponse : 
 
-** **
+** ** Y = Z - X
+      E(Y) = E(Z) - E(X) = 40/3 - 40/3 = 0
 
 
 ##### Question 9
@@ -93,6 +101,6 @@ output: html_document
 ###### Réponse : 
 
 
-** ** 
+** **  V(Z) = 2n * p(1-p) * (1- p(1-p)) = 40/3 * 2/3 = 80/9
 
 
